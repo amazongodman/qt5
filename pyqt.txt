@@ -77,10 +77,9 @@ https://ja.ojit.com/so/python/3054541
 
 
 
-
-
-
-
+#分離インストールの必要がある
+#https://qiita.com/montblanc18/items/abc740218a99fe37191b
+pip install PyQtWebEngine --proxy 172.23.110.249:8080
 
 
 
